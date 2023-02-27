@@ -12429,7 +12429,7 @@ textarea.parsley-success:focus {
   display: flex;
   height: 71px;
   border-bottom: 1px solid #ced4da;
-  align-items: center;
+  align-items: center; 
   /* background-color: #e9ecef; */
   padding: 0 15px;
 }
@@ -12437,6 +12437,7 @@ textarea.parsley-success:focus {
   /* color: #343a40; */
   color: #fff;
   margin-bottom: 2px;
+  text-align: left;
 }
 
 .kt-pagebody {
