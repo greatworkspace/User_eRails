@@ -56813,3 +56813,13 @@ a.hover-white-8:hover, a.hover-white-8:focus {
 /* * {       
     border: 1px solid #FAA !important;
 }      */
+/*############################################*#####################################################*/
+.card-profile {
+  display: block; border: 1px solid rgba(0, 0, 0, 0.125); background-color: #fff;
+}
+
+@media (min-width: 576px) {
+  .card-profile {
+    display: flex; border: 1px solid rgba(0, 0, 0, 0.125); background-color: #fff;
+  }
+}
